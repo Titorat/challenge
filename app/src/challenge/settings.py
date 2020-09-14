@@ -25,7 +25,7 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['18.209.180.159']
+ALLOWED_HOSTS = ['18.209.180.159','ec2-18-209-180-159.compute-1.amazonaws.com']
 
 
 # Application definition

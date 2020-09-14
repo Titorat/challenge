@@ -17,7 +17,7 @@ def one_time_startup():
             print('Will start uploading Coffee Machine data')
             try:
                 # print(i)
-                requests.post('http://18.209.180.159:80/api/create-machine/',data = i)
+                requests.post('http://ec2-18-209-180-159.compute-1.amazonaws.com:80/api/create-machine/',data = i)
                 # print('done')
                 sleep(0.1)
             except Exception as e:
@@ -28,7 +28,7 @@ def one_time_startup():
         for i in data:
             print('Will start uploading Pods data')
             try:
-                requests.post('http://18.209.180.159:80/api/create-pod/',data = i)
+                requests.post('http://ec2-18-209-180-159.compute-1.amazonaws.com:80/api/create-pod/',data = i)
                 sleep(0.1)
             except:
                 pass
