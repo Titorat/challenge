@@ -1,0 +1,56 @@
+[
+    {
+       "title":"CM001",
+       "model_type":"base",
+       "product_type":"small machine",
+       "water_line_compatible":false
+    },
+    {
+       "title":"CM002",
+       "model_type":"base",
+       "product_type":"small machine",
+       "water_line_compatible":false
+    },
+    {
+       "title":"CM003",
+       "model_type":"deluxe",
+       "product_type":"small machine",
+       "water_line_compatible":true
+    },
+    {
+       "title":"CM101",
+       "model_type":"base",
+       "product_type":"large machine",
+       "water_line_compatible":false
+    },
+    {
+       "title":"CM102",
+       "model_type":"premium",
+       "product_type":"large machine",
+       "water_line_compatible":true
+    },
+    {
+       "title":"CM103",
+       "model_type":"deluxe",
+       "product_type":"large machine",
+       "water_line_compatible":true
+    },
+    {
+       "title":"EM001",
+       "model_type":"base",
+       "product_type":"espresso machine",
+       "water_line_compatible":false
+    },
+    {
+       "title":"EM002",
+       "model_type":"premium",
+       "product_type":"espresso machine",
+       "water_line_compatible":false
+    },
+    {
+       "title":"EM003",
+       "model_type":"deluxe",
+       "product_type":"espresso machine",
+       "water_line_compatible":true
+    }
+ ]

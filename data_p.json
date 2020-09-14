@@ -1,0 +1,158 @@
+[
+    {
+       "title":"CP001",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"vanilla",
+       "pack_size":1
+    },
+    {
+       "title":"CP003",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"vanilla",
+       "pack_size":3
+    },
+    {
+       "title":"CP011",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"caramel",
+       "pack_size":1
+    },
+    {
+       "title":"CP013",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"caramel",
+       "pack_size":3
+    },
+    {
+       "title":"CP021",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"psl",
+       "pack_size":1
+    },
+    {
+       "title":"CP023",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"psl",
+       "pack_size":3
+    },
+    {
+       "title":"CP031",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"mocha",
+       "pack_size":1
+    },
+    {
+       "title":"CP033",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"mocha",
+       "pack_size":3
+    },
+    {
+       "title":"CP041",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"hazelnut",
+       "pack_size":1
+    },
+    {
+       "title":"CP043",
+       "product_type":"small coffee pod",
+       "coffee_flavor":"hazelnut",
+       "pack_size":3
+    },
+    {
+       "title":"CP101",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"vanilla",
+       "pack_size":1
+    },
+    {
+       "title":"CP103",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"vanilla",
+       "pack_size":3
+    },
+    {
+       "title":"CP111",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"caramel",
+       "pack_size":1
+    },
+    {
+       "title":"CP113",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"caramel",
+       "pack_size":3
+    },
+    {
+       "title":"CP121",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"psl",
+       "pack_size":1
+    },
+    {
+       "title":"CP123",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"psl",
+       "pack_size":3
+    },
+    {
+       "title":"CP131",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"mocha",
+       "pack_size":1
+    },
+    {
+       "title":"CP133",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"mocha",
+       "pack_size":3
+    },
+    {
+       "title":"CP141",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"hazelnut",
+       "pack_size":1
+    },
+    {
+       "title":"CP143",
+       "product_type":"large coffee pod",
+       "coffee_flavor":"hazelnut",
+       "pack_size":3
+    },
+    {
+       "title":"EP003",
+       "product_type":"espresso pod",
+       "coffee_flavor":"vanilla",
+       "pack_size":3
+    },
+    {
+       "title":"EP005",
+       "product_type":"espresso pod",
+       "coffee_flavor":"vanilla",
+       "pack_size":5
+    },
+    {
+       "title":"EP007",
+       "product_type":"espresso pod",
+       "coffee_flavor":"vanilla",
+       "pack_size":7
+    },
+    {
+       "title":"EP013",
+       "product_type":"espresso pod",
+       "coffee_flavor":"caramel",
+       "pack_size":3
+    },
+    {
+       "title":"EP015",
+       "product_type":"espresso pod",
+       "coffee_flavor":"caramel",
+       "pack_size":5
+    },
+    {
+       "title":"EP017",
+       "product_type":"espresso pod",
+       "coffee_flavor":"caramel",
+       "pack_size":7
+    }
+ ]

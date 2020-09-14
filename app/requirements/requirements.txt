@@ -1,0 +1,9 @@
+djongo
+django==3.0.5
+djangorestframework
+markdown      
+django-filter  
+gunicorn
+django-filter
+whitenoise
+requests
